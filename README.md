@@ -27,7 +27,8 @@ With your simulation and solution with mutex and semaphores students hopefully w
     - Idle (Empty) state: 
     
     If there are no people in the room, the staff will ventilate the room. 
-    Being idle is forbidden for the staff. If any people came, they should open the room. Don't forget that no people are waiting.
+    Being idle is forbidden for the staff. If any people came, they should open the room. 
+    Don't forget that no people are waiting.
     
     - Full and busy state: 
     
