@@ -1,10 +1,10 @@
 # Covid-19 Test Unit Synchronization Problem
 
-##Goal 
+## Goal 
 
 You will solve the synchronization problem using semaphores and mutex. You should suffer from deadlock and/or starvation. You are expected to simulate and solve the “COVID-19 Test Unit” synchronization problem, which its details are given.
 
-##Implementation Details & Requirements
+## Implementation Details & Requirements
 
 Today, the units that make Covid-19 tests in medical centers have a very important and critical role. With the increase in cases and patients, this may cause the density in these units after fillation studies. Before the test is applied, people are waiting for a long time at the entrance of the hospitals. Because there is a limited number of test units and healthcare staff. We are launching the “Covid-19 Test Unit” application to facilitate this. This will prevent both people from creating long queues and to lock the waiting rooms before being full. Also it will provide an efficient and fair sharing because units will contain people up to its capacity.
 
